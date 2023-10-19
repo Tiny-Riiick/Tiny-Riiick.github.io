@@ -1,22 +1,22 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
+title:  lotto-x
+description: 'blog'
 url: 'https://www.zuehlke.cloud'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/Baghdad.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
+  name: 'lotto-x'
   email: thomas@zuehlke.cloud
-  mastodon: tzuehlke@mstdn.social
-  twitter_username: thomzuehlke
+ # mastodon: tzuehlke@mstdn.social
+ # twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+#  github_username:  tzuehlke
+#  linkedin_username:  thomas-zühlke-889182165
+ # meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
