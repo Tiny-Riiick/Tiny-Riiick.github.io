@@ -1,5 +1,5 @@
 resume_url: "Resume.pdf"
-author_name: "John Doe"
+author_name: "Lotto-x"
 url: johndoe.com
 
 plugins:
@@ -147,7 +147,7 @@ assets:
     browsers:
       - "last 2 versions"
       - "IE > 9"
-
+theme: dev-portfolio-blog
 google_analytics: "UA_123456789_1"
 
 # Disqus Comments
